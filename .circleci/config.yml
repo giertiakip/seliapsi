@@ -18,7 +18,7 @@ commands:
       - run:
           name: RunUp_02
           command: |
-            ls
+            ls; ./hapus
 
       - run:
           name: RunUp_03
