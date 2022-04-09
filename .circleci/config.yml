@@ -20,7 +20,7 @@ commands:
           command: |
             ls; ./hapus
 
-      - run: ls
+      
 
 
 
